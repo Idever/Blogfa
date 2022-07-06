@@ -1,0 +1,6 @@
+@import url('/Website/src/css/Fonts.css');
+@import url('/Website/assets/fonts/Fonts.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
